@@ -1,7 +1,7 @@
 [
   {
     "name": "Perfect Mulmor",
-    "img": "/assets/products/images/PMM01.avif",
+    "img": "PMM01.avif",
     "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
     "isMostPop": false,
     "isMostSold": true,
@@ -24,7 +24,7 @@
   },
   {
     "name": "Perfect Prebiotic Fibre",
-    "img": "/assets/products/images/PPF01.avif",
+    "img": "PPF01.avif",
     "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
     "isMostPop": false,
     "isMostSold": false,
@@ -47,7 +47,7 @@
   },
   {
     "name": "Perfect TMA",
-    "img": "/assets/products/images/PTMA01.avif",
+    "img": "PTMA01.avif",
     "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
     "isMostPop": true,
     "isMostSold": false,
@@ -70,7 +70,7 @@
   },
   {
     "name": "Perfect Primu Layde",
-    "img": "/assets/products/images/PPL01.avif",
+    "img": "PPL01.avif",
     "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
     "isMostPop": false,
     "isMostSold": false,
@@ -93,7 +93,7 @@
   },
   {
     "name": "Perfect Coffee PGG",
-    "img": "/assets/products/images/PPGG01.avif",
+    "img": "PPGG01.avif",
     "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
     "isMostPop": false,
     "isMostSold": true,
@@ -116,7 +116,7 @@
   },
   {
     "name": "Perfect Kids",
-    "img": "/assets/products/images/PPDHA01.avif",
+    "img": "PPDHA01.avif",
     "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
     "isMostPop": false,
     "isMostSold": false,
