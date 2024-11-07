@@ -1,38 +1,42 @@
-[
-    {
-        "avatar": "t_mulmorfibre.png",
-        "name": "En Ahmad bin Essack",
-        "title": "Users of Perfect Mulmor & Prebiotic Fibre",
-        "quote": "I had diabetes for many years. I tried various medications and diets, but my blood sugar level was unstable. Then, my friend introduced me to PW Wellness products. After using Mulmor and Prebiotic Fiber  for just a few weeks, I saw an improvement which is noticeable in my health. My energy levels have increased, and most importantly, my blood sugar levels are finally under control."
-    },
-    {
-        "avatar": "t_fibre.png",
-        "name": "Puan Mahizan Ismail",
-        "title": "Users of Perfect Prebiotic Fibre",
-        "quote": "I have been using the perfect prebiotic fibre. It is a product to help with digestion & constipation problems. In just a few days of using it, I noticed a significant improvement in my digestive health. Now I don't have to worry about constipation anymore. I am very grateful to friend who introduced this product."
-    },
-    {
-        "avatar": "t_TMA.png",
-        "name": "En Mohd Faizul",
-        "title": "Users of Perfect TMA",
-        "quote": "Alhamdulillah, after drinking TMA products for 2 weeks, my breathing is better. My asthma has also decreased. Product TMA are the best."
-    },
-    {
-        "avatar": "t_pgg.png",
-        "name": "En Saiful",
-        "title": "Users of Perfect Coffee PGG",
-        "quote": "You should try PGG coffee, it's delicious and gives you energy, this coffee also has prebiotics good for digestion and good for eye health. I drink this coffee every day, the taste of premium quality coffee."
-    },
-    {
-        "avatar": "t_mulmor.png",
-        "name": "Puan Sofiah Othman",
-        "title": "Users of Perfect Mulmor",
-        "quote": "I am a diabetic, after a few days of consuming this product, my blood sugar has stabilized and my cholesterol level has also improved. I highly recommend this product to anyone with diabetes."
-    },
-    {
-        "avatar": "t_PL.png",
-        "name": "Puan Neesanti Murugan",
-        "title": "Users of Perfect Primu Ladye",
-        "quote": "Hi,I'm Syanti from Shah Alam, after a long time experiencing irregular periods. I have tried Perfect Primu Ladye. Within two weeks of consuming this product. I found that my menstrual problems are back to normal. In addition to brightening the skin, this product is also good for the stability of female hormones."
-    }
-]
+{
+    "filename": "Customers Feedback",
+    "path": "feedback/images/",
+    "data": [
+        {
+            "avatar": "feedback/images/t_mulmorfibre.png",
+            "name": "En Ahmad bin Essack",
+            "title": "Users of Perfect Mulmor & Prebiotic Fibre",
+            "quote": "I had diabetes for many years. I tried various medications and diets, but my blood sugar level was unstable. Then, my friend introduced me to PW Wellness products. After using Mulmor and Prebiotic Fiber  for just a few weeks, I saw an improvement which is noticeable in my health. My energy levels have increased, and most importantly, my blood sugar levels are finally under control."
+        },
+        {
+            "avatar": "feedback/images/t_fibre.png",
+            "name": "Puan Mahizan Ismail",
+            "title": "Users of Perfect Prebiotic Fibre",
+            "quote": "I have been using the perfect prebiotic fibre. It is a product to help with digestion & constipation problems. In just a few days of using it, I noticed a significant improvement in my digestive health. Now I don't have to worry about constipation anymore. I am very grateful to friend who introduced this product."
+        },
+        {
+            "avatar": "feedback/images/t_TMA.png",
+            "name": "En Mohd Faizul",
+            "title": "Users of Perfect TMA",
+            "quote": "Alhamdulillah, after drinking TMA products for 2 weeks, my breathing is better. My asthma has also decreased. Product TMA are the best."
+        },
+        {
+            "avatar": "feedback/images/t_pgg.png",
+            "name": "En Saiful",
+            "title": "Users of Perfect Coffee PGG",
+            "quote": "You should try PGG coffee, it's delicious and gives you energy, this coffee also has prebiotics good for digestion and good for eye health. I drink this coffee every day, the taste of premium quality coffee."
+        },
+        {
+            "avatar": "feedback/images/t_mulmor.png",
+            "name": "Puan Sofiah Othman",
+            "title": "Users of Perfect Mulmor",
+            "quote": "I am a diabetic, after a few days of consuming this product, my blood sugar has stabilized and my cholesterol level has also improved. I highly recommend this product to anyone with diabetes."
+        },
+        {
+            "avatar": "feedback/images/t_PL.png",
+            "name": "Puan Neesanti Murugan",
+            "title": "Users of Perfect Primu Ladye",
+            "quote": "Hi,I'm Syanti from Shah Alam, after a long time experiencing irregular periods. I have tried Perfect Primu Ladye. Within two weeks of consuming this product. I found that my menstrual problems are back to normal. In addition to brightening the skin, this product is also good for the stability of female hormones."
+        }
+    ]
+}

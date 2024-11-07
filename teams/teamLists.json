@@ -1,20 +1,24 @@
-[
-    {
-        "avatar": "ceo.png",
-        "name": "Zainul Azhar",
-        "title": "Chief Executive Officer",
-        "desc": "Holder of a bachelor's degree with education honors from the Universiti Kebangsaan Malaysia (UKM), has served as a teacher for 25 years and has held the position of senior assistant for 5 years, experienced in MLM marketing for 19 years until now, Founders and Chief Executive Officers of PW Wellness Sdn Bhd.",
-        "linkedin": "/",
-        "twitter": "/",
-        "github": "/"
-    },
-    {
-        "avatar": "cmo.png",
-        "name": "Law Ah Khiau",
-        "title": "Chief Marketing Officer",
-        "desc": "Holder of a bachelor's degree from Universiti Sains Malaysia (USM), served as a Malay language teacher for 20 years, experienced in MLM marketing for 15 years until now, Co-Founders and Chief Marketing Officer of PW Wellness Sdn Bhd.",
-        "linkedin": "/",
-        "twitter": "/",
-        "github": "/"
-    }
-]
+{
+    "filename": "Teams of Company",
+    "path": "teams/images/",
+    "data": [
+        {
+            "avatar": "ceo.png",
+            "name": "Zainul Azhar",
+            "title": "Chief Executive Officer",
+            "desc": "Holder of a bachelor's degree with education honors from the Universiti Kebangsaan Malaysia (UKM), has served as a teacher for 25 years and has held the position of senior assistant for 5 years, experienced in MLM marketing for 19 years until now, Founders and Chief Executive Officers of PW Wellness Sdn Bhd.",
+            "linkedin": "/",
+            "twitter": "/",
+            "github": "/"
+        },
+        {
+            "avatar": "cmo.png",
+            "name": "Law Ah Khiau",
+            "title": "Chief Marketing Officer",
+            "desc": "Holder of a bachelor's degree from Universiti Sains Malaysia (USM), served as a Malay language teacher for 20 years, experienced in MLM marketing for 15 years until now, Co-Founders and Chief Marketing Officer of PW Wellness Sdn Bhd.",
+            "linkedin": "/",
+            "twitter": "/",
+            "github": "/"
+        }
+    ]
+}
