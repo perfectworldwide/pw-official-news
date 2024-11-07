@@ -1,0 +1,140 @@
+[
+  {
+    "name": "Perfect Mulmor",
+    "img": "/assets/products/images/PMM01.avif",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "isMostPop": false,
+    "isMostSold": true,
+    "benefits": [
+      "Stable your blood sugar",
+      "Reduce cholesterol and high blood pressure",
+      "High in antioxidants"
+    ],
+    "ingredients": "Filtered water, Herbal liquid, Luo Han Guo extract, Tea extract, Tiger Milk Mushroom powder, Alfalfa Grass powder, Seaweed powder, Cooling powder, Steviol Glycosides (Stevia powder) and Permitted Food Additivies (E414,E211).",
+    "netContent": "400ml (50ml x 8 sachets)",
+    "retailPrice": [
+      "MY (WM) - RM 80.00",
+      "MY (EM) - RM 85.00"
+    ],
+    "memberPrice": [
+      "MY (WM) - RM 60.00",
+      "MY (EM) - RM 65.00",
+      "TH - THB 550"
+    ]
+  },
+  {
+    "name": "Perfect Prebiotic Fibre",
+    "img": "/assets/products/images/PPF01.avif",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "isMostPop": false,
+    "isMostSold": false,
+    "benefits": [
+      "Prebiotics Act As Food For Good Bacteria",
+      "Good for intestinal problems",
+      "Weight management"
+    ],
+    "ingredients": "",
+    "netContent": "",
+    "retailPrice": [
+      "MY (WM) - RM 80.00",
+      "MY (EM) - RM 85.00"
+    ],
+    "memberPrice": [
+      "MY (WM) - RM 60.00",
+      "MY (EM) - RM 65.00",
+      "TH - THB 550"
+    ]
+  },
+  {
+    "name": "Perfect TMA",
+    "img": "/assets/products/images/PTMA01.avif",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "isMostPop": true,
+    "isMostSold": false,
+    "benefits": [
+      "Reduce lung problems",
+      "Helps the respiratory system",
+      "Improve the immune system"
+    ],
+    "ingredients": "",
+    "netContent": "",
+    "retailPrice": [
+      "MY (WM) - RM 80.00",
+      "MY (EM) - RM 85.00"
+    ],
+    "memberPrice": [
+      "MY (WM) - RM 60.00",
+      "MY (EM) - RM 65.00",
+      "TH - THB 550"
+    ]
+  },
+  {
+    "name": "Perfect Primu Layde",
+    "img": "/assets/products/images/PPL01.avif",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "isMostPop": false,
+    "isMostSold": false,
+    "benefits": [
+      "Increase female libido",
+      "Reduces symptoms of hormonal imbalance",
+      "Menopause problem"
+    ],
+    "ingredients": "",
+    "netContent": "",
+    "retailPrice": [
+      "MY (WM) - RM 80.00",
+      "MY (EM) - RM 85.00"
+    ],
+    "memberPrice": [
+      "MY (WM) - RM 60.00",
+      "MY (EM) - RM 65.00",
+      "TH - THB 550"
+    ]
+  },
+  {
+    "name": "Perfect Coffee PGG",
+    "img": "/assets/products/images/PPGG01.avif",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "isMostPop": false,
+    "isMostSold": true,
+    "benefits": [
+      "Improve gut health",
+      "Reduces the Risk of Cardiovascular Disease",
+      "Increase blood flow"
+    ],
+    "ingredients": "",
+    "netContent": "",
+    "retailPrice": [
+      "MY (WM) - RM 40.00",
+      "MY (EM) - RM 45.00"
+    ],
+    "memberPrice": [
+      "MY (WM) - RM 30.00",
+      "MY (EM) - RM 32.50",
+      "TH - THB 275"
+    ]
+  },
+  {
+    "name": "Perfect Kids",
+    "img": "/assets/products/images/PPDHA01.avif",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "isMostPop": false,
+    "isMostSold": false,
+    "benefits": [
+      "Good for children's mind, focus, and memory",
+      "Improve blood flow and a healthy digestive system",
+      "Increases the growth of good bacteria"
+    ],
+    "ingredients": "",
+    "netContent": "",
+    "retailPrice": [
+      "MY (WM) - RM 40.00",
+      "MY (EM) - RM 45.00"
+    ],
+    "memberPrice": [
+      "MY (WM) - RM 60.00",
+      "MY (EM) - RM 32.50",
+      "TH - THB 275"
+    ]
+  }
+]
