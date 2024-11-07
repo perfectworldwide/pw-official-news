@@ -1,11 +1,17 @@
-[
-    {
-        "title": "Perfect Partner Training - Pasir Mas, Kelantan",
-        "desc": "Location : Stockist Salor, Pasir Mas, Kelantan, Malaysia",
-        "img": "https://info.pwwellness.com.my/news/images/banner/ppt_kb_29092024.jpg",
-        "viewdate": "2024-09-25 00:00:00",
-        "eventdate": "2024-09-29 09:30:00",
-        "enddate": "2024-09-30 00:00:00",
-        "href": "#"
-    }
-]
+{
+    "filename": "Member Banner",
+    "baseurl": "https://raw.githubusercontent.com/perfectworldwide/pw-official-info/refs/heads/production/",
+    "path": "banner/images/",
+    "data": [
+        {
+            "active": true,
+            "title": "Pengumpulan Maintain PV",
+            "desc": "Naik Taraf Pakej Dengan Pengumpulan Maintain PV",
+            "img": "accumulate_mtn_pv.jpg",
+            "viewdate": "2024-01-01 00:00:00",
+            "eventdate": "2024-01-01 00:00:00",
+            "enddate": "2030-12-31 00:00:00",
+            "href": "#"
+        }
+    ]
+}
