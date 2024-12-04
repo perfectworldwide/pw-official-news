@@ -3,6 +3,13 @@
     "path": "news/images/",
     "data": [
         {
+            "title": "Promosi Akhir Tahun 2024",
+            "desc": "Aktif Akaun 3 Bulan Extra Produk Wallet",
+            "img": "promo_yearend2024.png",
+            "date": "4 - 31 Dec 2024",
+            "href": "#"
+        },
+        {
             "title": "Oppurtinity Presentation Preview - Kota Bharu, Kelantan",
             "desc": "Location : Permai Resort, Bachok, Kelantan, Malaysia",
             "img": "opp_ktn_23112024.jpg",
