@@ -1,24 +1,28 @@
 {
     "filename": "News For Stockists",
+    "baseurl": "https://raw.githubusercontent.com/perfectworldwide/pw-official-info/refs/heads/production/",
     "path": "news/images/",
     "data": [
         {
-            "title": "Perfect Partner Training - Pasir Mas, Kelantan",
-            "desc": "Location : Stockist Salor, Pasir Mas, Kelantan, Malaysia",
-            "img": "https://info.pwwellness.com.my/news/images/banner/ppt_kb_29092024.jpg",
-            "viewdate": "2024-09-25 00:00:00",
-            "eventdate": "2024-09-29 09:30:00",
-            "enddate": "2024-09-30 00:00:00",
+            "title": "Promosi Akhir Tahun 2024",
+            "desc": "Aktif Akaun 3 Bulan Extra Produk Wallet",
+            "img": "promo_yearend2024.png",
+            "alt": "Promosi Akhir Tahun 2024",
+            "viewdate": "2024-12-04 00:00:00",
+            "eventdate": "2024-12-04 00:00:00",
+            "enddate": "2024-12-31 00:00:00",
+            "interval": "5000",
             "href": "#"
         },
         {
             "title": "Accumulate Maintain PV",
             "desc": "Accumulate Maintain PV",
-            "img": "https://info.pwwellness.com.my/news/images/banner/accumulate_mtn_pv.jpg",
+            "img": "accumulate_mtn_pv.jpg",
             "alt": "Accumulate Maintain PV",
             "viewdate": "2023-01-01 00:00:00",
             "eventdate": "2023-01-01 00:00:00",
             "enddate": "2030-01-01 00:00:00",
+            "interval": "5000",
             "href": "#"
         }
     ]
