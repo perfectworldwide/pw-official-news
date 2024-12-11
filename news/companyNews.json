@@ -3,6 +3,13 @@
     "path": "news/images/",
     "data": [
         {
+            "title": "Oppurtinity Presentation Preview - Pasir Mas, Kelantan",
+            "desc": "Location : Stockist Salor, Pasir Mas, Kelantan, Malaysia",
+            "img": "opp_ktn_13122024.jpg",
+            "date": "13 December 2024 3:00PM - 5.00PM",
+            "href": "#"
+        },
+        {
             "title": "Promosi Akhir Tahun 2024",
             "desc": "Aktif Akaun 3 Bulan Extra Produk Wallet",
             "img": "promo_yearend2024.png",
