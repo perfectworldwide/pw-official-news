@@ -4,6 +4,17 @@
     "path": "news/images/",
     "data": [
         {
+            "title": "New Year 2025",
+            "desc": "Tahun Baru 2025",
+            "img": "newyear_2025.jpg",
+            "alt": "New Year 2025",
+            "viewdate": "2025-01-01 00:00:00",
+            "eventdate": "2025-01-01 00:00:00",
+            "enddate": "2025-01-02 00:00:00",
+            "interval": "5000",
+            "href": "#"
+        },        
+        {
             "title": "Cabaran Promosi Awal Tahun 2025",
             "desc": "Sponsor 10 Orang & Capai Sales RM4000",
             "img": "promo_newyear2025.jpg",
