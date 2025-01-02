@@ -4,6 +4,17 @@
     "path": "news/images/",
     "data": [
         {
+            "title": "Oppurtinity Presentation Preview - Machang, Kelantan",
+            "desc": "Location : Kak Mah Satey 3, Machang, Kelantan, Malaysia",
+            "img": "opp_ktn_04012025.jpg",
+            "alt": "Oppurtinity Presentation Preview - Machang, Kelantan",
+            "viewdate": "2025-01-02 00:00:00",
+            "eventdate": "2025-01-04 00:00:00",
+            "enddate": "2025-01-05 00:00:00",
+            "interval": "5000",
+            "href": "#"
+        },        
+        {
             "title": "New Year 2025",
             "desc": "Tahun Baru 2025",
             "img": "newyear_2025.jpg",
