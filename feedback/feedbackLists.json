@@ -3,6 +3,12 @@
     "path": "feedback/images/",
     "data": [
         {
+            "avatar": "t_TMA.png",
+            "name": "En Wan Amran",
+            "title": "Users of Perfect TMA",
+            "quote": "I'm Wan Amran from Gua Musang, I want to thank Perfect World for producing this product, I feel relieved now and no longer use breathing aids because I have asthma. This TMA product has a great effect on my lungs."
+        },        
+        {
             "avatar": "t_mulmorfibre.png",
             "name": "En Ahmad bin Essack",
             "title": "Users of Perfect Mulmor & Prebiotic Fibre",
