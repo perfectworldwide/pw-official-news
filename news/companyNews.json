@@ -3,6 +3,13 @@
     "path": "news/images/",
     "data": [
         {
+            "title": "Promosi Bulan Februari 2025",
+            "desc": "Maintain Akaun 3 Bulan Percuma 2 Kotak Produk",
+            "img": "promo_february2025.jpg",
+            "date": "5 - 20 Feb 2025",
+            "href": "#"
+        },
+        {
             "title": "Top Monthly Income - January 2025",
             "desc": "Congratulations to Top 5 Monthly Income for January 2025",
             "img": "top_monthly_income_012025.jpg",
