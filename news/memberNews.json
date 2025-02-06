@@ -4,6 +4,17 @@
     "path": "news/images/",
     "data": [
         {
+            "title": "Februari Super Bonanza 2025",
+            "desc": "Jualan RM6000 Dalam Bulan Februari Akan Menerima Hadiah Wang Tunai RM300",
+            "img": "super_bonanza_feb2025.jpg",
+            "alt": "Februari Super Bonanza 2025",
+            "viewdate": "2025-02-06 00:00:00",
+            "eventdate": "2025-02-06 00:00:00",
+            "enddate": "2025-02-28 00:00:00",
+            "interval": "5000",
+            "href": "#"
+        },        
+        {
             "title": "Oppurtinity Presentation Preview - Jertih, Terengganu",
             "desc": "Location : Grand Business Hotel, Jerteh, Terengganu, Malaysia",
             "img": "opp_trg_07022025.jpg",

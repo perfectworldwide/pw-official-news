@@ -4,6 +4,17 @@
     "path": "news/images/",
     "data": [
         {
+            "title": "Februari Super Bonanza 2025",
+            "desc": "Jualan RM6000 Dalam Bulan Februari Akan Menerima Hadiah Wang Tunai RM300",
+            "img": "super_bonanza_feb2025.jpg",
+            "alt": "Februari Super Bonanza 2025",
+            "viewdate": "2025-02-06 00:00:00",
+            "eventdate": "2025-02-06 00:00:00",
+            "enddate": "2025-02-28 00:00:00",
+            "interval": "5000",
+            "href": "#"
+        },        
+        {
             "title": "Promosi Bulan Februari 2025",
             "desc": "Maintain Akaun 3 Bulan Percuma 2 Kotak Produk",
             "img": "promo_february2025.jpg",
