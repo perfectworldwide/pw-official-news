@@ -4,6 +4,17 @@
     "path": "news/images/",
     "data": [
         {
+            "title": "Oppurtinity Presentation Preview - Pasir Mas, Kelantan",
+            "desc": "Location : Stockist Salor, Pasir Mas, Kelantan, Malaysia",
+            "img": "opp_ktn_15022025.jpg",
+            "alt": "Oppurtinity Presentation Preview - Pasir Mas, Kelantan",
+            "viewdate": "2025-02-14 00:00:00",
+            "eventdate": "2025-02-15 00:00:00",
+            "enddate": "2025-02-16 00:00:00",
+            "interval": "5000",
+            "href": "#"
+        },        
+        {
             "title": "Februari Super Bonanza 2025",
             "desc": "Jualan RM6000 Dalam Bulan Februari Akan Menerima Hadiah Wang Tunai RM300",
             "img": "super_bonanza_feb2025.jpg",
