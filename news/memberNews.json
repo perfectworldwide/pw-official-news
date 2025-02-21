@@ -4,6 +4,28 @@
     "path": "news/images/",
     "data": [
         {
+            "title": "Oppurtinity Presentation Preview - Brickfield, Kuala Lumpur",
+            "desc": "Location : YMCA, Brickfield, Kuala Lumpur, Malaysia",
+            "img": "opp_kl_23022025.jpg",
+            "alt": "Oppurtinity Presentation Preview - Brickfield, Kuala Lumpur",
+            "viewdate": "2025-02-21 00:00:00",
+            "eventdate": "2025-02-23 00:00:00",
+            "enddate": "2025-02-24 00:00:00",
+            "interval": "5000",
+            "href": "#"
+        },        
+        {
+            "title": "Oppurtinity Presentation Preview - Bachok, Kelantan",
+            "desc": "Location : Taska Umi Ros, Lot 321, Kg Tok Burong, Jalan Pantai Irama, Bachok, Kelantan, Malaysia",
+            "img": "opp_ktn_22022025.jpg",
+            "alt": "Oppurtinity Presentation Preview - Bachok, Kelantan",
+            "viewdate": "2025-02-21 00:00:00",
+            "eventdate": "2025-02-22 00:00:00",
+            "enddate": "2025-02-23 00:00:00",
+            "interval": "5000",
+            "href": "#"
+        },        
+        {
             "title": "Oppurtinity Presentation Preview - Pasir Mas, Kelantan",
             "desc": "Location : Stockist Salor, Pasir Mas, Kelantan, Malaysia",
             "img": "opp_ktn_15022025.jpg",
